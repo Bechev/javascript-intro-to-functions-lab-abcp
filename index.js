@@ -1,10 +1,3 @@
-function happyHolidays() {
-  return "Happy holidays!";
+function shout(string){
+  return string.toUpperCase;
 }
-
-function happyHolidaysTo(name){
-  return `Happy holdays ${name}!`
-}
-
-happyHolidaysTo(Bart)
-happyHolidaysTo(Harry)
