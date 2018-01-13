@@ -1,8 +1,8 @@
-happyHolidays(){
+function happyHolidays() {
   return "Happy holidays!";
 }
 
-happyHolidaysTo(name){
+function happyHolidaysTo(name){
   return `Happy holdays ${name}!`
 }
 
