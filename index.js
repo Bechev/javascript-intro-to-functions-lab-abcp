@@ -3,7 +3,7 @@ happyHolidays(){
 }
 
 happyHolidaysTo(name){
-  return`Happy holdays ${name}!`
+  return `Happy holdays ${name}!`
 }
 
 happyHolidaysTo(Bart)
